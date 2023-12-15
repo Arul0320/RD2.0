@@ -1,0 +1,18 @@
+#popup.hidden {
+    display: none;
+}
+#popup.visible {
+    display: block;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+#scoreDisplay {
+    margin-top: 10px;
+    color: black; /* Text color for score display */
+}
+
+#currentScore {
+    font-weight: bold;
+}
